@@ -4,3 +4,5 @@ Copyright 2020 The GooGolPlex Authors. Licensed under the Apache License, Versio
 
 Data Scientist Jose R F Junior - web2ajax@gmail.com
 Project: Edwin Smith Wikipedia
+
+![](mama.jpg)
